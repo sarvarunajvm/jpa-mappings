@@ -32,6 +32,8 @@ Based on this definition, we can now talk about the lifecycle model.
 
 The lifecycle model consists of the 4 states  _transient_,  _managed_,  _removed,_  and  _detached_.
 
+![alt](/lifecycle.png)
+
 ### Transient
 
 The lifecycle state of a newly instantiated entity object is called  _transient_. The entity hasn’t been persisted yet, so it doesn’t represent any database record.
