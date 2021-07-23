@@ -32,7 +32,7 @@ Based on this definition, we can now talk about the lifecycle model.
 
 The lifecycle model consists of the 4 states  _transient_,  _managed_,  _removed,_  and  _detached_.
 
-![alt](/lifecycle.png)
+![alt](https://github.com/sarvarunajvm/jpa-mappings/blob/main/lifecycle.PNG)
 
 ### Transient
 
